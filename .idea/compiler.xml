@@ -9,7 +9,12 @@
         <module name="db" />
         <module name="ManageSystem" />
         <module name="HomeworkManage" />
+        <module name="MVCProject" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ManageSystem (1)" target="1.7" />
+      <module name="ManageSystem_MVC" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

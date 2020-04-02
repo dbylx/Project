@@ -12,7 +12,12 @@
         <module>HomeworkManage</module>
         <module>db</module>
         <module>ManageSystem</module>
+        <module>ManageSystem_MVC</module>
+        <module>MVCProject</module>
     </modules>
+    <dependencies>
+
+    </dependencies>
 
 
 </project>
